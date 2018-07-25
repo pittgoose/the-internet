@@ -1,4 +1,4 @@
-# The Internet 0.49.5 (April, 11 2016)
+# The Internet 0.50.1 (June, 30 2017)
 =======
 
 An example application that captures prominent and ugly functionality found on the web. Perfect for writing automated acceptance tests against.
@@ -27,6 +27,7 @@ Deployed and available at [http://the-internet.herokuapp.com](http://the-interne
 + [Form Authentication](http://the-internet.herokuapp.com/login)
 + [Frames](http://the-internet.herokuapp.com/frames)
 + [Geolocation](http://the-internet.herokuapp.com/geolocation)
++ [Horizontal Slider](http://the-internet.herokuapp.com/horizontal_slider)
 + [Hovers](http://the-internet.herokuapp.com/hovers)
 + [Infinite Scroll](http://the-internet.herokuapp.com/infinite_scroll)
 + [JQuery UI Menus](http://the-internet.herokuapp.com/jqueryui/menu)
@@ -45,12 +46,11 @@ Deployed and available at [http://the-internet.herokuapp.com](http://the-interne
 + [Status Codes](http://the-internet.herokuapp.com/status_codes)
 + [Typos](http://the-internet.herokuapp.com/typos)
 + [WYSIWYG Editor](http://the-internet.herokuapp.com/tinymce)
-+ [Horizontal Slider](http://the-internet.herokuapp.com/horizontal_slider)
 
 
 Don't see an example you need or think should be here? Contribute!
 
-##Contribution Guidelines
+## Contribution Guidelines
 
 tldr;
 
@@ -59,7 +59,7 @@ tldr;
 3. Submit a Pull Request
 4. High Five!
 
-##Getting Started
+## Getting Started
 
 Install your dependencies:
 
@@ -72,3 +72,7 @@ Start the server:
 Load the page you want to see in your browser:
 
     http://localhost:9292/url_path
+
+## See Also
+
+- A Docker Image of the-internet ([link](https://hub.docker.com/r/gprestes/the-internet/))

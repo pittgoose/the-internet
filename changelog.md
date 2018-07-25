@@ -1,3 +1,9 @@
+#0.50.1
++ Updates to README.template and README.md
+
+#0.50.0
++ Pulled in PR for Horizontal Slider (thanks [pittgoose](https://github.com/pittgoose)!)
+
 #0.49.5
 + Removed missed dependency that was causing a production outage
 
